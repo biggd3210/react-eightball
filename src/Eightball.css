@@ -1,0 +1,13 @@
+.Eightball {
+    height: 500px;
+    width: 500px;
+    justify-content: center;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.message {
+    padding: 150px;
+    color: white;
+}
+
